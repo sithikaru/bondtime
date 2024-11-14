@@ -2,9 +2,9 @@ name: Android Release
 
 on:
   push:
-    branches: [ "testapk" ]
+    branches: [ "main" ]  # Trigger the workflow on commits to the main branch
   pull_request:
-    branches: [ "testapk" ]
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
