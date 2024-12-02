@@ -4,7 +4,11 @@
 
 Welcome to **BondTime**, the revolutionary app that bridges the gap between technology and early childhood development. Whether you’re tracking milestones, encouraging learning, or identifying developmental challenges, BondTime is here to empower parents and support their children in thriving.
 
-<iframe src="https://giphy.com/embed/Vo6YaTLaSMGqI" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p align="center">
+  <a href="https://giphy.com/gifs/Vo6YaTLaSMGqI" target="_blank">
+    <img src="https://media.giphy.com/media/Vo6YaTLaSMGqI/giphy.gif" alt="Welcome Baby GIF" width="480">
+  </a>
+</p>
 
 ## 🚀 **About BondTime**
 
