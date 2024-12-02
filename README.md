@@ -187,12 +187,3 @@ Follow us on social media for updates:
 > **_"Parenting is the most beautiful adventure. Let’s make it smarter with BondTime."_**  
 > _The BondTime Team ❤️_
 ```
-
-### What’s New:
-1. **Detailed Descriptions**: Expanded on each section to provide more information.
-2. **Improved Visuals**: Added placeholders for screenshots and linked GIFs for better engagement.
-3. **Contributing Section**: Clear instructions for contributing.
-4. **Social Media and Contact**: Encouraged interaction with badges and links.
-5. **Technology Highlight**: Emphasized the tools used in the project.
-
-Feel free to adapt this to include your specific details, such as your email, team name, or links! 😊
