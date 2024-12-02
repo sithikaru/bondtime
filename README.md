@@ -48,7 +48,9 @@ Access BondTime on Android, iOS, Web, Windows, macOS, and Linux.
 ## 🎥 **How BondTime Works**  
 Here’s a quick walkthrough of BondTime in action:  
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="BondTime Demo GIF" width="600"/>
+  <a href="https://giphy.com/gifs/snl-saturday-night-live-season-44-Mab1lyzb70X0YiNLUj" target="_blank">
+    <img src="https://media.giphy.com/media/Mab1lyzb70X0YiNLUj/giphy.gif" alt="BondTime Demo GIF" width="480">
+  </a>
 </p>
 
 1. **Profile Creation**  
