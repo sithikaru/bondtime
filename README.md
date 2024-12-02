@@ -6,10 +6,9 @@ Welcome to **BondTime**, the revolutionary app that bridges the gap between tech
 
 <p align="center">
   <a href="https://tenor.com/view/baby-gif-4041650820720069434" target="_blank">
-    <img src="https://c.tenor.com/YOUR-GIF-ID.gif" alt="BondTime Welcome GIF" width="400">
+    <img src="https://media.tenor.com/4041650820720069434.gif" alt="Baby Welcome GIF" width="400">
   </a>
 </p>
----
 
 ## 🚀 **About BondTime**
 
