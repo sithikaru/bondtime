@@ -83,16 +83,44 @@ Here’s how we’ve organized the BondTime repository:
 
 ```plaintext
 BondTime/
-├── .github/workflows/       # GitHub CI/CD workflows
-├── android/                 # Android-specific code
-├── ios/                     # iOS-specific code
-├── lib/                     # Main Dart application logic
-│   ├── models/              # Data models
-│   ├── screens/             # Screens (Home, Profile, Activities, etc.)
-│   ├── services/            # API integration and backend calls
-│   ├── utils/               # Helper functions
-│   └── widgets/             # Reusable UI components
-├── assets/                  # Images, fonts, and other static assets
-├── web/                     # Web platform files
-├── test/                    # Unit and widget tests
-└── pubspec.yaml             # Project dependencies
+.
+├── .github/
+│   └── workflows/
+│       └── main.yml                  # GitHub Actions configuration for CI/CD
+├── android/                          # Android-specific project files
+│   ├── app/
+│   │   └── src/                      # Source code for the Android app
+│   ├── build.gradle                  # Gradle build configuration for Android
+│   ├── gradle/
+│   │   └── wrapper/                  # Gradle wrapper files
+│   ├── gradle.properties             # Gradle settings
+│   └── settings.gradle               # Gradle project settings
+├── assets/                           # Static assets for the project
+│   └── fonts/                        # Font files used in the app (Trueno font family)
+│       ├── TruenoBd.otf              # Example: Bold font
+│       ├── TruenoRg.otf              # Example: Regular font
+│       └── ... (collapsed)           # Additional Trueno font variants
+├── ios/                              # iOS-specific project files
+│   ├── Flutter/                      # Flutter-specific configurations for iOS
+│   ├── Runner.xcodeproj/             # Xcode project for the app
+│   ├── Runner.xcworkspace/           # Xcode workspace
+│   ├── Runner/                       # Main iOS application files
+│   ├── RunnerTests/                  # Unit tests for the iOS app
+│   ├── .gitignore                    # Ignored files for iOS development
+│   └── Podfile                       # CocoaPods dependencies configuration
+├── lib/                              # Main application logic
+│   └── screens/                      # Screens for the app
+│       ├── audio_guidance_screen.dart # Screen for the audio guidance feature
+│       ├── audio_guidance_splash.dart # Splash screen for the audio guidance module
+│       └── main.dart                 # Main entry point for the Flutter app
+├── linux/                            # Linux-specific project files
+├── macos/                            # macOS-specific project files
+├── test/                             # Unit and widget tests
+├── web/                              # Web-specific project files
+├── windows/                          # Windows-specific project files
+├── .gitignore                        # Ignored files and directories for the project
+├── .metadata                         # Metadata for the Flutter project
+├── README.md                         # Documentation for the project
+├── analysis_options.yaml             # Linter and analysis rules for Dart
+├── pubspec.lock                      # Locked dependencies for the project
+└── pubspec.yaml                      # Project dependencies and configuration
