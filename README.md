@@ -4,11 +4,7 @@
 
 Welcome to **BondTime**, the revolutionary app that bridges the gap between technology and early childhood development. Whether you’re tracking milestones, encouraging learning, or identifying developmental challenges, BondTime is here to empower parents and support their children in thriving.
 
-<p align="center">
-  <a href="https://tenor.com/view/baby-gif-4041650820720069434" target="_blank">
-    <img src="[https://media.tenor.com/4041650820720069434.gif](https://media1.tenor.com/m/OBbUAgMvizoAAAAd/baby.gif)" alt="Baby Welcome GIF" width="400">
-  </a>
-</p>
+<iframe src="https://giphy.com/embed/Vo6YaTLaSMGqI" width="480" height="307" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## 🚀 **About BondTime**
 
